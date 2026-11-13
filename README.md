@@ -1,2 +1,3 @@
-# chappy-updates
-Update files for the Chappy desktop widget
+# sparky-updates
+
+Update files for the Sparky desktop widget.
